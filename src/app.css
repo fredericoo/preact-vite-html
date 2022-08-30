@@ -1,0 +1,10 @@
+[data-saltpay-navbar] {
+  background: white;
+  width: 100%;
+  max-width: 100vw;
+  padding: 1rem;
+
+  display: flex;
+  align-items: center;
+  gap: 1rem
+}
